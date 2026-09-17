@@ -62,11 +62,7 @@ Stay tuned — new updates are released regularly.
 
 ---
 
-## Disclaimer
 
-This tool is intended for **personal use only** — to recover your own forgotten wallets and checks. The author is not responsible for any misuse of this software.
-
----
 
 ## License
 
